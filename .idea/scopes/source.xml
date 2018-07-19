@@ -1,3 +1,0 @@
-<component name="DependencyValidationManager">
-  <scope name="source" pattern="file[API]:src//*||file[Core]:src//*" />
-</component>
